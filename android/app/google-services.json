@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469810609811",
+    "firebase_url": "https://uimobile-df403-default-rtdb.firebaseio.com",
+    "project_id": "uimobile-df403",
+    "storage_bucket": "uimobile-df403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469810609811:android:be8999c84e4ef6bf301766",
+        "android_client_info": {
+          "package_name": "com.example.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469810609811-uj6v2mh6a82in1gr387g01r06sk3buj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA79wB5-A28-sLdZHM5m8epyPdwQdlZlhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469810609811-uj6v2mh6a82in1gr387g01r06sk3buj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
